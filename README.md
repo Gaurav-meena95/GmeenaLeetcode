@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Hard/0301-remove-invalid-parentheses/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,4 +98,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/4056-number-of-intersecting-interval-pairs-i/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Hard/0301-remove-invalid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
