@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/3794-reverse-string-prefix/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/3884-first-matching-character-from-both-ends/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/3794-reverse-string-prefix/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/3884-first-matching-character-from-both-ends/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
