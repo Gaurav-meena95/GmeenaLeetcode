@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/2367-number-of-arithmetic-triplets/) | Easy |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Dynamic Programming
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,10 +104,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -124,4 +128,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/2367-number-of-arithmetic-triplets/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 <!---LeetCode Topics End-->
