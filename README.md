@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0301-remove-invalid-parentheses](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/0678-valid-parenthesis-string/) | Medium |
+| [0821-shortest-distance-to-a-character](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/0821-shortest-distance-to-a-character/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/1021-remove-outermost-parentheses/) | Easy |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0821-shortest-distance-to-a-character](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/0821-shortest-distance-to-a-character/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/2367-number-of-arithmetic-triplets/) | Easy |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/0821-shortest-distance-to-a-character/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/2367-number-of-arithmetic-triplets/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/3794-reverse-string-prefix/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
