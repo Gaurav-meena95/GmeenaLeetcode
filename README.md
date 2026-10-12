@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/2367-number-of-arithmetic-triplets/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/3940-limit-occurrences-in-sorted-array/) | Easy |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Dynamic Programming
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,8 +136,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/2367-number-of-arithmetic-triplets/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 <!---LeetCode Topics End-->
