@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2778-sum-of-squares-of-special-elements](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/3940-limit-occurrences-in-sorted-array/) | Easy |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/4056-number-of-intersecting-interval-pairs-i/) | Easy |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2367-number-of-arithmetic-triplets](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/2367-number-of-arithmetic-triplets/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,10 +167,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
