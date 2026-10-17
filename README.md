@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/3940-limit-occurrences-in-sorted-array/) | Easy |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/4056-number-of-intersecting-interval-pairs-i/) | Easy |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Enumeration
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
