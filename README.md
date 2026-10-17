@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0821-shortest-distance-to-a-character](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/0821-shortest-distance-to-a-character/) | Easy |
+| [1652-defuse-the-bomb](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/1652-defuse-the-bomb/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/2367-number-of-arithmetic-triplets/) | Easy |
@@ -180,4 +181,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Medium/0005-longest-palindromic-substring/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1652-defuse-the-bomb](https://github.com/Gaurav-meena95/GmeenaLeetcode/tree/main/Python3/Easy/1652-defuse-the-bomb/) | Easy |
 <!---LeetCode Topics End-->
