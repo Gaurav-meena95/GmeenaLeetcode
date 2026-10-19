@@ -4,4 +4,3 @@ s = set()
 for i in arr:
     s.add(i)
     
-print(*s)
