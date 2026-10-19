@@ -6,7 +6,8 @@ for i in arr:
     if i in d:
         continue
     else:
-        a
+        d[i] == 1
+        ans.a
         
         
     
