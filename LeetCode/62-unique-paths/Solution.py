@@ -4,7 +4,7 @@ class Solution:
         def fn(i,j):
             if i >= m or j >= n:
                 return 0
-            if i == m-1 or j >= n:
+            if i == m-1 and j >= n:
                 return 1
             if dp[i][j] != -1:
                 return dp[i][j]
