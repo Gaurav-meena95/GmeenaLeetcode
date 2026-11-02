@@ -1,4 +1,4 @@
 class Solution:
     def pivotIndex(self, nums: list[int]) -> int:
-        s
+        s = sum(nums)
         presum = 0
