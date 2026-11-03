@@ -3,8 +3,8 @@
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange)
 
 ## Performance
-- **Runtime**: N/A
-- **Memory**: N/A
+- **Runtime**: 20 ms
+- **Memory**: 25.5 MB
 
 ## Tags
 `Array` `Prefix Sum`
