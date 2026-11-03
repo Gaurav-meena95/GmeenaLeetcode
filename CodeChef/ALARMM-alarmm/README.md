@@ -1,9 +1,9 @@
-# [Scored](https://www.codechef.com/START262D/problems/ALARMM)
+# [Welcome to the CodeChef AI Tutor](https://www.codechef.com/problems/ALARMM?tab=statement)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange)
 
 ## Problem Description
-Alarmmm
+Learn problem solving techniques required to solve this problemTake our problem solving courses to understand how to attempt problems like these.Start LearningAlarmmm
 
 *After escaping the abandoned arcade, Nikhil follows a narrow passage beneath the building and discovers an abandoned orbital station hidden underground. At its entrance lies a sealed security corridor, still guarded by an ancient system.*
 
@@ -73,4 +73,4 @@ Explanation:
 **Test case 333:** Alarms installed in rooms 222, 333, 555 and 888 protect all the dangerous rooms. It can be verified that fewer than 444 alarms are not enough.
 
 **Test case 444:** Alarms installed in rooms 444 and 777 protect rooms 111 to 444 and rooms 444 to 777 respectively, which covers all the dangerous rooms.
-Accepted4141Submissions5550Accuracy78.54Did you like the problem statement?15 users found this helpfulMore InfoTime limit1 secsMemory limit1.5 GBSource Limit50000 BytesContributorsAuthor(s)nikhil_010309Tester(s)raysh07Editorialist(s)iceknight1093
+Did you like the problem statement?32 users found this helpfulMore InfoTime limit1 secsMemory limit1.5 GBSource Limit50000 BytesContributorsAuthor(s)nikhil_010309Tester(s)raysh07Editorialist(s)iceknight1093
