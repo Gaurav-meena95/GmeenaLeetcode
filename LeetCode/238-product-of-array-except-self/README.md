@@ -4,7 +4,7 @@
 
 ## Performance
 - **Runtime**: 20 ms
-- **Memory**: 25.5 MB
+- **Memory**: 25.1 MB
 
 ## Tags
 `Array` `Prefix Sum`
