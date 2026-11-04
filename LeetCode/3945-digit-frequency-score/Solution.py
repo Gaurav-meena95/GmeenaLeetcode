@@ -9,6 +9,6 @@ class Solution:
                 d[digi] = 1
             n = n//10
         ans = 0
-        for i in d:
-            ans += i * d[i]
+        for i,j in d.items():
+            ans += i * j
         return ans
