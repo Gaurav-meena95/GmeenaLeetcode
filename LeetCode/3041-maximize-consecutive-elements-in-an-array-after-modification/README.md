@@ -3,8 +3,8 @@
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-red)
 
 ## Performance
-- **Runtime**: 3355 ms
-- **Memory**: 287.6 MB
+- **Runtime**: 212 ms
+- **Memory**: 43.2 MB
 
 ## Tags
 `Array` `Dynamic Programming` `Sorting`
