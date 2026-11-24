@@ -3,25 +3,20 @@ class Solution:
         if not head:
             return None
             
-        arr = []
-        temp = head
-        while temp:
-            arr.append(temp.val)
-            temp = temp.next
-            
-        a1 = []
-        a2 = []
-        for i in arr:
-            if i < x:
-                a1.append(i)
+        before_head = ListNode(0)
+        after_head = ListNode(0)
+        before = before_head
+        after = after_head
+        
+        curr = head
+        while curr:
+            if curr.val < x:
+                before.next = ListNode(curr.val)
+                before = before.next
             else:
-                a2.append(i)
-                
-        ans = a1 + a2
-        a = ListNode(ans[0])
-        curr = a
-        for i in range(1, len(ans)):
-            curr.next = ListNode(ans[i])
+                after.next = ListNode(curr.val)
+                after = after.next
             curr = curr.next
             
-        return a
+        before.next = after_head.next
+        return before_head.next
