@@ -5,7 +5,7 @@ class Solution:
         def fn(mid,base):
             d = {}
             hash = 0
-            p = pow(base, mid - 1, mod)
+            p = (base ** (mid - 1)) % mod
             i = 0
             j = 0
             while j < n:
