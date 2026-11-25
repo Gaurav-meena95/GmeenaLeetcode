@@ -3,8 +3,8 @@
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-red)
 
 ## Performance
-- **Runtime**: 2411 ms
-- **Memory**: 39.6 MB
+- **Runtime**: 6129 ms
+- **Memory**: 40.7 MB
 
 ## Tags
 `Array` `Hash Table` `Binary Search` `Rolling Hash` `Suffix Array` `Hash Function`
